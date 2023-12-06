@@ -1,0 +1,3 @@
+INDEX VERSION 1.131+/home/runner/DW2/.cache/jdt-language-server/data/home/runner/DW2/.metadata/.plugins/org.eclipse.jdt.core
+3842426239.index
+63098532.index
